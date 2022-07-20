@@ -43,3 +43,8 @@ npm run test
 ```
 npm run dev
 ```
+## Start
+
+```
+npm start
+```
